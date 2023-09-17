@@ -1,0 +1,3 @@
+loader :- https://media.giphy.com/media/J0Cw0qUYLssQvgNT3I/giphy.gif
+
+quote api :- https://api.quotable.io/random
